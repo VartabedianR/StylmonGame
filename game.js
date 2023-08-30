@@ -88,29 +88,3 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
-
-/*   switch (click) {
-    case "green":
-      var sound1 = new Audio("./sounds/green.mp3");
-      sound1.play();
-      break;
-
-    case "red":
-      var sound2 = new Audio("./sounds/red.mp3");
-      sound2.play();
-      break;
-
-    case "yellow":
-      var sound3 = new Audio("./sounds/yellow.mp3");
-      sound3.play();
-      break;
-
-    case "blue":
-      var sound4 = new Audio("./sounds/blue.mp3");
-      sound4.play();
-      break;
-
-    default:
-      var sound5 = new Audio("./sounds/wrong.mp3");
-      sound5.play();
-  } */
